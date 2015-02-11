@@ -137,7 +137,7 @@
      },
         {
          "type": "moving",
-         "filename": "/pa/units/air/air_cyclops/mkv_jets.pfx",
+         "filename": "/pa/units/air/air_cyclops/mkv_jets_small.pfx",
          "bone": "bone_fire2",
          "offset": [
              0,
@@ -152,7 +152,7 @@
      },
         {
          "type": "moving",
-         "filename": "/pa/units/air/air_cyclops/mkv_jets.pfx",
+         "filename": "/pa/units/air/air_cyclops/mkv_jets_small.pfx",
          "bone": "bone_fire3",
          "offset": [
              0,
