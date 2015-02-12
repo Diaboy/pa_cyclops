@@ -24,8 +24,8 @@
       "hover_time": -1
    },
    "physics":{
-      "radius":1,
-      "gravity_scalar":0.001,
+      "radius":6,
+      "gravity_scalar":1,
       "push_class":2
    },
    "recon":{
@@ -145,7 +145,7 @@
          ],
          "orientation": [
              0,
-             -40,
+             -30,
              90
          ]
      },
@@ -159,7 +159,7 @@
          ],
          "orientation": [
              0,
-             -40,
+             -30,
              -90
          ]
       }
