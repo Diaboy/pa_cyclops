@@ -20,11 +20,12 @@
       "move_speed":90,
       "turn_speed":270,
       "aggressive_distance":50.0,
-      "bank_factor":10
+      "bank_factor":10,
+      "hover_time": -1
    },
    "physics":{
-      "radius":6,
-      "gravity_scalar":1,
+      "radius":1,
+      "gravity_scalar":0.001,
       "push_class":2
    },
    "recon":{
@@ -121,7 +122,6 @@
          ]
       },
         {
-         "type": "moving",
          "filename": "/pa/units/air/air_cyclops/mkv_jets.pfx",
          "bone": "bone_fire1",
          "offset": [
@@ -136,7 +136,6 @@
          ]
      },
         {
-         "type": "moving",
          "filename": "/pa/units/air/air_cyclops/mkv_jets_small.pfx",
          "bone": "bone_fire2",
          "offset": [
@@ -151,7 +150,6 @@
          ]
      },
         {
-         "type": "moving",
          "filename": "/pa/units/air/air_cyclops/mkv_jets_small.pfx",
          "bone": "bone_fire3",
          "offset": [
